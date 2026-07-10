@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0101-symmetric-tree) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
