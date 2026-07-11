@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
