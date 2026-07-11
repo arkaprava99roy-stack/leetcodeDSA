@@ -22,10 +22,12 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0101-symmetric-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0101-symmetric-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,9 +59,14 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
