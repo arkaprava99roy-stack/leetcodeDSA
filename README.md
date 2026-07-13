@@ -77,4 +77,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
