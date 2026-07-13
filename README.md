@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0001-two-sum) |
+| [0221-maximal-square](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -50,6 +51,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0221-maximal-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1291-sequential-digits) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
