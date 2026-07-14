@@ -9,6 +9,7 @@
 | [0238-product-of-array-except-self](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0009-palindrome-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Tree
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0221-maximal-square) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -93,4 +96,8 @@
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
