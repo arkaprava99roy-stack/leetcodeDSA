@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0048-rotate-image) |
 | [0221-maximal-square](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0048-rotate-image) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
@@ -92,6 +94,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0048-rotate-image) |
 | [0221-maximal-square](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0221-maximal-square) |
 ## Counting
 |  |
