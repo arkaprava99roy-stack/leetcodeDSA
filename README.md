@@ -48,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0093-restore-ip-addresses) |
 | [0520-detect-capital](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0520-detect-capital) |
 ## Two Pointers
 |  |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
