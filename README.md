@@ -10,6 +10,7 @@
 | [0238-product-of-array-except-self](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -19,11 +20,13 @@
 | [0001-two-sum](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0048-rotate-image) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -58,6 +61,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -92,6 +96,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
 | ------- |
@@ -105,9 +110,11 @@
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -119,4 +126,8 @@
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0093-restore-ip-addresses) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
