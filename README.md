@@ -9,6 +9,7 @@
 | [0221-maximal-square](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0048-rotate-image) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -114,6 +116,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
