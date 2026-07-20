@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0048-rotate-image) |
 | [0221-maximal-square](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
+| [1260-shift-2d-grid](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0048-rotate-image) |
 | [0221-maximal-square](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0221-maximal-square) |
+| [1260-shift-2d-grid](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1260-shift-2d-grid) |
 ## Counting
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
