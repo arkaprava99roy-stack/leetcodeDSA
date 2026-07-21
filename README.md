@@ -58,6 +58,7 @@
 | [0316-remove-duplicate-letters](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0520-detect-capital](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Matrix
 |  |
 | ------- |
