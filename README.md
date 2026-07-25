@@ -36,6 +36,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -104,6 +105,7 @@
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
