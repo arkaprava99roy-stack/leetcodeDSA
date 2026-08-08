@@ -67,11 +67,13 @@
 | [0316-remove-duplicate-letters](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0520-detect-capital](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0221-maximal-square) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -91,6 +94,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
