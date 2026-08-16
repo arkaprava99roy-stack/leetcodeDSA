@@ -15,6 +15,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -37,6 +38,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -97,6 +99,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -145,6 +148,7 @@
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
@@ -189,12 +193,19 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
