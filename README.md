@@ -18,6 +18,7 @@
 | [2029-stone-game-ix](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -30,6 +31,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
