@@ -12,6 +12,7 @@
 | [1140-stone-game-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1386-cinema-seat-allocation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -101,12 +103,14 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arkaprava99roy-stack/leetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
